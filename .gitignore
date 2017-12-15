@@ -1,0 +1,8 @@
+.wercker/
+flights
+.vscode/
+responses/
+polls/
+temp/
+key-generator
+.envrc
